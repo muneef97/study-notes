@@ -46,4 +46,26 @@ what is http return codes?
 http return codes are the response when a client requested something, eg: 200(ok), 404(not found), 500(server error)
 
 what is http request?
+http request is a request send by the client to the server 
+
+what is http response?
+http response means the reply by the server to the client according to the request
+
+what is ajax?
+ajax is asynchronous javascript and xml which is used for web development in the client side
+
+what are js frameworks?
+js framework means framework written in javascript.eg : jquery, angular js, react js, vue js
+
+what are software testing?
+software testing means checking whether the determined output is actual output, there are two methods manual testing(user test all the possible cases by himself) and automatic testing(user provide conditions to test and machine tests by itself eg: unit testing in linux
+
+how to view all python packages and their versions?
+pip list
+
+what are the commands to create a branch in github? 
+git branch branchname
+
+How do you merge new changes to master branch?
+git merge name_of_your_remote
 
