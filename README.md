@@ -70,3 +70,8 @@ git branch branchname
 #### How do you merge new changes to master branch?
 git merge name_of_your_remote
 
+#### What is a .pyc file? How is it generated?
+A pyc file is created when a .py file is imported.
+
+#### Should a .pyc file be part of a git repository?
+No, the .pyc file can be ignored by including the file name into .gitignore file.
